@@ -119,7 +119,7 @@
 
           @media (any-pointer: fine) {
             &:hover {
-              color: $col-gray;
+              color: $col-bonewhite;
             }
           }
         }
@@ -202,7 +202,7 @@
       }
 
       &__paragraph {
-        color: $col-gray;
+        color: $col-bonewhite;
 
         span {
           text-transform: uppercase;
@@ -318,7 +318,7 @@
     }
 
     &__paragraph {
-      color: $col-gray;
+      color: $col-bonewhite;
       max-width: 32.5rem;
 
       @include media("<=tablet") {
@@ -615,7 +615,7 @@
         border: 0;
         font-weight: 500;
         cursor: pointer;
-        color: $col-gray;
+        color: $col-bonewhite;
         padding: 0;
         margin-bottom: 1.6rem;
 
