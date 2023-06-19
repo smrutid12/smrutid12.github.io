@@ -81,7 +81,7 @@
 
         .slide-up {
           &::before {
-            background: $col-red;
+            background: $col-bonewhite;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
           }
@@ -126,7 +126,7 @@
         &::before {
           display: inline-block;
           content: attr(data-content);
-          color: $col-red;
+          color: $col-bonewhite;
           transform: translateY(-100%);
           transition: transform 275ms ease;
 

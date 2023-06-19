@@ -12,9 +12,9 @@
 
   &:hover {
     @media (any-pointer: fine) {
-      border-color: $col-red;
+      border-color: $col-bonewhite;
       color: $col-black;
-      background: $col-red;
+      background: $col-bonewhite;
       font-weight: 500;
     }
   }
